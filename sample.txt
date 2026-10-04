@@ -1,0 +1,5 @@
+Hello world! Welcome to the Node.js CLI activity.
+This is a small tool designed to count lines, words, and characters in a file.
+
+Node.js makes it easy to work with the filesystem using the fs module.
+Happy coding and good luck with your submission!
